@@ -1,3 +1,5 @@
+used:   React | Graph Ql | Matrial UI | Hygraph
+
 view
 ![Screenshot (61)](https://github.com/hosseinmahdiian/Blog/assets/108767623/03baa476-4912-4d1f-b4db-d85d021b9cf9)
 
@@ -10,7 +12,6 @@ Main blog
  section comment
 ![Screenshot (64)](https://github.com/hosseinmahdiian/Blog/assets/108767623/98f299d8-4f84-4b12-a8cc-6780158978ab)
 
-used:   React | Graph Ql | Matrial UI | Hygraph
 
 
 
